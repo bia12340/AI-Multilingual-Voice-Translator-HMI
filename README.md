@@ -23,3 +23,8 @@ The project focuses on the implementation of an **AI-Driven Voice Translation** 
 * **Models:** Faster-Whisper (STT), Helsinki-NLP MarianMT (NMT), Edge-TTS (Neural Synthesis).
 * **Core Libraries:** Python, CustomTkinter (GUI), Asyncio & Threading (Parallelism), FFmpeg (Audio Management).
 * **Focus Areas:** Natural Language Processing (NLP), Signal Processing, and Human-Computer Interaction (HCI).
+
+---
+
+### Comment regarding the documentation
+The source code available on GitHub has been updated with English documentation and comments for international accessibility, while the snippets presented in this document reflect the initial development phase.
