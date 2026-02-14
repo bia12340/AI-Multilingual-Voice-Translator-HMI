@@ -27,4 +27,4 @@ The project focuses on the implementation of an **AI-Driven Voice Translation** 
 ---
 
 ### Comment regarding the documentation
-The source code available on GitHub has been updated with English documentation and comments for international accessibility, while the snippets presented in this document reflect the initial development phase.
+Please note that even in the English version of the project documentation, the code screenshots reflect the Romanian version. This choice was made to maintain consistency with the original development artifacts and the initial Human-Machine Interface study. The logic and functional architecture remain identical across both files.
